@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Absensi</string>
+    <string name="id">ID</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="tambahkan_kehadiran">Tambahkan Kehadiran</string>
+    <string name="dapatka_kehadiran">Dapatkan Kehadiran</string>
+</resources>
